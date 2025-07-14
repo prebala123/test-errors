@@ -1,7 +1,7 @@
 import numpy as np
 import torch
 import torch.nn as nn
-import pickle
+import json
 
 class DEHNNLayer(nn.Module):
     def __init__(self, node_in_features, edge_in_features, vn_features, hidden_features):
@@ -103,44 +103,44 @@ class Hypergraph:
 def open_chip(i):
     path = '../../data/chips/2023-03-06_data/'
 
-    with open(path + f'{i}.bipartite.pkl', 'rb') as f:
-        bipartite = pickle.load(f)
+    with open(path + f'{i}.bipartite.json', 'r') as f:
+        bipartite = json.load(f)
 
-    with open(path + f'{i}.degree.pkl', 'rb') as f:
-        degree = pickle.load(f)
+    with open(path + f'{i}.degree.json', 'r') as f:
+        degree = json.load(f)
 
-    with open(path + f'{i}.eigen.10.pkl', 'rb') as f:
-        eigen = pickle.load(f)
+    with open(path + f'{i}.eigen.10.json', 'r') as f:
+        eigen = json.load(f)
 
-    with open(path + f'{i}.global_information.pkl', 'rb') as f:
-        global_info = pickle.load(f)
+    with open(path + f'{i}.global_information.json', 'r') as f:
+        global_info = json.load(f)
 
-    with open(path + f'{i}.metis_part_dict.pkl', 'rb') as f:
-        metis = pickle.load(f)
+    with open(path + f'{i}.metis_part_dict.json', 'r') as f:
+        metis = json.load(f)
 
-    with open(path + f'{i}.net_demand_capacity.pkl', 'rb') as f:
-        net_demand_capacity = pickle.load(f)
+    with open(path + f'{i}.net_demand_capacity.json', 'r') as f:
+        net_demand_capacity = json.load(f)
 
-    with open(path + f'{i}.net_features.pkl', 'rb') as f:
-        net_feats = pickle.load(f)
+    with open(path + f'{i}.net_features.json', 'r') as f:
+        net_feats = json.load(f)
 
-    with open(path + f'{i}.net_hpwl.pkl', 'rb') as f:
-        hpwl = pickle.load(f)
+    with open(path + f'{i}.net_hpwl.json', 'r') as f:
+        hpwl = json.load(f)
 
-    with open(path + f'{i}.nn_conn.pkl', 'rb') as f:
-        nn_conn = pickle.load(f)
+    with open(path + f'{i}.nn_conn.json', 'r') as f:
+        nn_conn = json.load(f)
 
-    with open(path + f'{i}.node_features.pkl', 'rb') as f:
-        node_feats = pickle.load(f)
+    with open(path + f'{i}.node_features.json', 'r') as f:
+        node_feats = json.load(f)
 
-    with open(path + f'{i}.pl_fix_part_dict.pkl', 'rb') as f:
-        pl = pickle.load(f)
+    with open(path + f'{i}.pl_fix_part_dict.json', 'r') as f:
+        pl = json.load(f)
 
-    with open(path + f'{i}.star.pkl', 'rb') as f:
-        star = pickle.load(f)
+    with open(path + f'{i}.star.json', 'r') as f:
+        star = json.load(f)
 
-    with open(path + f'{i}.targets.pkl', 'rb') as f:
-        targets = pickle.load(f)
+    with open(path + f'{i}.targets.json', 'r') as f:
+        targets = json.load(f)
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
