@@ -1,0 +1,256 @@
+1. What are the top 5 origin subway stations from where most riders took subway ride across each borough?
+
+Top Stations in Brooklyn:
+1. Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)
+2. Bedford Av (L)
+3. Jay St-MetroTech (A,C,F,R)
+4. Court St (R)/Borough Hall (2,3,4,5)
+5. Crown Hts-Utica Av (3,4)
+
+Top Stations in Bronx:
+1. 161 St-Yankee Stadium (B,D,4)
+2. 3 Av-149 St (2,5)
+3. Parkchester (6)
+4. Fordham Rd (4)
+5. Hunts Point Av (6)
+
+Top Stations in Manhattan:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. Grand Central-42 St (S,4,5,6,7)
+3. 34 St-Herald Sq (B,D,F,M,N,Q,R,W)
+4. 14 St-Union Sq (L,N,Q,R,W,4,5,6)
+5. 34 St-Penn Station (A,C,E)
+
+Top Stations in Queens:
+1. 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)
+2. Flushing-Main St (7)
+3. 103 St-Corona Plaza (7)
+4. Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)
+5. Junction Blvd (7)
+
+2. What are the top 5 origin subway stations from where most riders took subway rides on Monday, Tuesday, and Wednesday combined?
+
+Top Stations on Monday, Tuesday, Wednesday:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. Grand Central-42 St (S,4,5,6,7)
+3. 34 St-Herald Sq (B,D,F,M,N,Q,R,W)
+4. 14 St-Union Sq (L,N,Q,R,W,4,5,6)
+5. Fulton St (A,C,J,Z,2,3,4,5)
+
+3. What are the top 5 origin subway stations from where most riders took subway rides on Saturday and Sunday combined?
+
+Top Stations on Saturday, Sunday:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. 34 St-Herald Sq (B,D,F,M,N,Q,R,W)
+3. Grand Central-42 St (S,4,5,6,7)
+4. 14 St-Union Sq (L,N,Q,R,W,4,5,6)
+5. 34 St-Penn Station (A,C,E)
+
+4. What are the top 5 origin subway stations from where most riders took subway rides between 1am-5am across all days and boroughs?
+
+Top Stations from 12am to 5am:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)
+3. Flushing-Main St (7)
+4. 103 St-Corona Plaza (7)
+5. Jamaica Center-Parsons/Archer (E,J,Z)
+
+5. What are the top 5 origin subway stations from where most riders took subway rides between 6am-9am across all days and boroughs?
+
+Top Stations from 6am to 9am:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. Grand Central-42 St (S,4,5,6,7)
+3. 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)
+4. 34 St-Penn Station (1,2,3)
+5. Flushing-Main St (7)
+
+6. What are the top 5 destination subway stations from where most riders took subway rides across each borough?
+
+Top Stations in Brooklyn:
+1. Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)
+2. Bedford Av (L)
+3. Jay St-MetroTech (A,C,F,R)
+4. Court St (R)/Borough Hall (2,3,4,5)
+5. Crown Hts-Utica Av (3,4)
+
+Top Stations in Bronx:
+1. 161 St-Yankee Stadium (B,D,4)
+2. 3 Av-149 St (2,5)
+3. Parkchester (6)
+4. 149 St-Grand Concourse (2,4,5)
+5. Fordham Rd (4)
+
+Top Stations in Manhattan:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. Grand Central-42 St (S,4,5,6,7)
+3. 34 St-Herald Sq (B,D,F,M,N,Q,R,W)
+4. 14 St-Union Sq (L,N,Q,R,W,4,5,6)
+5. Fulton St (A,C,J,Z,2,3,4,5)
+
+Top Stations in Queens:
+1. 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)
+2. Flushing-Main St (7)
+3. Court Sq (E,G,M,7)
+4. 103 St-Corona Plaza (7)
+5. Junction Blvd (7)
+
+7. What are the top 5 destination subway stations from where most riders took subway rides on Thursday and Friday combined?
+
+Top Stations on Thursday, Friday:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. Grand Central-42 St (S,4,5,6,7)
+3. 34 St-Herald Sq (B,D,F,M,N,Q,R,W)
+4. 14 St-Union Sq (L,N,Q,R,W,4,5,6)
+5. Fulton St (A,C,J,Z,2,3,4,5)
+
+8. What are the top 5 destination sub-way stations from where most riders took subway rides on Saturday?
+
+Top Stations on Saturday:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. 34 St-Herald Sq (B,D,F,M,N,Q,R,W)
+3. 14 St-Union Sq (L,N,Q,R,W,4,5,6)
+4. Grand Central-42 St (S,4,5,6,7)
+5. 34 St-Penn Station (A,C,E)
+
+9. What are the top 5 destination subway stations from where most riders took subway rides between 12am-5am across all days and boroughs?
+
+Top Stations from 12am to 5am:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. Grand Central-42 St (S,4,5,6,7)
+3. 34 St-Herald Sq (B,D,F,M,N,Q,R,W)
+4. 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)
+5. Fulton St (A,C,J,Z,2,3,4,5)
+
+10. What are the top 5 destination subway stations from where most riders took subway rides between 6pm-9pm across all days and boroughs?
+
+Top Stations from 6pm to 9pm:
+1. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+2. Grand Central-42 St (S,4,5,6,7)
+3. 34 St-Herald Sq (B,D,F,M,N,Q,R,W)
+4. 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)
+5. 14 St-Union Sq (L,N,Q,R,W,4,5,6)
+
+11. What are the top 10 congested source-destination subway stations pair on Monday between 1pm-2pm?
+
+Top Station Pairs from 1pm-2pm on Monday:
+
+1. Grand Central-42 St (S,4,5,6,7) --> Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)
+ 282 average riders
+2. Flushing-Main St (7) --> 103 St-Corona Plaza (7)
+ 273 average riders
+3. Fulton St (A,C,J,Z,2,3,4,5) --> Grand Central-42 St (S,4,5,6,7)
+ 272 average riders
+4. Flushing-Main St (7) --> Junction Blvd (7)
+ 271 average riders
+5. Grand Central-42 St (S,4,5,6,7) --> 14 St-Union Sq (L,N,Q,R,W,4,5,6)
+ 270 average riders
+6. Flushing-Main St (7) --> 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)
+ 259 average riders
+7. 14 St-Union Sq (L,N,Q,R,W,4,5,6) --> Grand Central-42 St (S,4,5,6,7)
+ 255 average riders
+8. Junction Blvd (7) --> Flushing-Main St (7)
+ 239 average riders
+9. Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E) --> Grand Central-42 St (S,4,5,6,7)
+ 232 average riders
+10. Grand Central-42 St (S,4,5,6,7) --> Fulton St (A,C,J,Z,2,3,4,5)
+ 231 average riders
+
+12. What are the top 10 congested source-destination subway stations pair on Queens borough, on Fridays between 6pm-9pm?
+
+Top Station Pairs from 6pm to 9pm on Friday in Queens:
+
+1. Flushing-Main St (7) --> 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)
+ 645 average riders
+2. Flushing-Main St (7) --> 103 St-Corona Plaza (7)
+ 644 average riders
+3. Flushing-Main St (7) --> Junction Blvd (7)
+ 593 average riders
+4. Junction Blvd (7) --> Flushing-Main St (7)
+ 433 average riders
+5. Flushing-Main St (7) --> 90 St-Elmhurst Av (7)
+ 385 average riders
+6. 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R) --> Flushing-Main St (7)
+ 345 average riders
+7. 103 St-Corona Plaza (7) --> Flushing-Main St (7)
+ 278 average riders
+8. Flushing-Main St (7) --> 111 St (7)
+ 240 average riders
+9. 82 St-Jackson Hts (7) --> Flushing-Main St (7)
+ 235 average riders
+10. 74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R) --> Jamaica-179 St (F)
+ 222 average riders
+
+13. What are the top 10 congested source-destination subway stations pair on Brooklyn borough, Ridership between 1am-5am?
+
+Top Station Pairs from 1am to 5am in Brooklyn:
+
+1. Crown Hts-Utica Av (3,4) --> Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)
+ 136 average riders
+2. Flatbush Av-Brooklyn College (2,5) --> Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)
+ 107 average riders
+3. Bedford Av (L) --> Myrtle-Wyckoff Avs (L,M)
+ 104 average riders
+4. Crown Hts-Utica Av (3,4) --> Court St (R)/Borough Hall (2,3,4,5)
+ 104 average riders
+5. Myrtle-Wyckoff Avs (L,M) --> Bedford Av (L)
+ 93 average riders
+6. Crown Hts-Utica Av (3,4) --> Nevins St (2,3,4,5)
+ 92 average riders
+7. Euclid Av (A,C) --> Jay St-MetroTech (A,C,F,R)
+ 92 average riders
+8. Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5) --> 36 St (D,N,R)
+ 86 average riders
+9. Bedford Av (L) --> DeKalb Av (L)
+ 86 average riders
+10. Lorimer St (L)/Metropolitan Av (G) --> Myrtle-Wyckoff Avs (L,M)
+ 77 average riders
+
+14. What are the top 10 congested source-destination sub-way stations pair where Source is Brooklyn, Destination is Manhattan, Monday-Thursday 6am-7am?
+
+Top Station Pairs from 6am to 7am in from Monday to Thursday from Brooklyn to Manhattan:
+
+1. Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5) --> Bowling Green (4,5)
+ 1029 average riders
+2. Crown Hts-Utica Av (3,4) --> Grand Central-42 St (S,4,5,6,7)
+ 692 average riders
+3. Kings Hwy (B,Q) --> 34 St-Herald Sq (B,D,F,M,N,Q,R,W)
+ 655 average riders
+4. Court St (R)/Borough Hall (2,3,4,5) --> Grand Central-42 St (S,4,5,6,7)
+ 653 average riders
+5. Flatbush Av-Brooklyn College (2,5) --> Grand Central-42 St (S,4,5,6,7)
+ 589 average riders
+6. Crown Hts-Utica Av (3,4) --> Fulton St (A,C,J,Z,2,3,4,5)
+ 580 average riders
+7. Flatbush Av-Brooklyn College (2,5) --> Fulton St (A,C,J,Z,2,3,4,5)
+ 557 average riders
+8. Bedford Av (L) --> Grand Central-42 St (S,4,5,6,7)
+ 555 average riders
+9. Kings Hwy (B,Q) --> 47-50 Sts-Rockefeller Ctr (B,D,F,M)
+ 503 average riders
+10. Sheepshead Bay (B,Q) --> 47-50 Sts-Rockefeller Ctr (B,D,F,M)
+ 478 average riders
+
+15. What are the top 10 congested source-destination subway stations pair where Source is Bronx, Destination is Manhattan, Monday-Thursday 6am-7am?
+
+Top Station Pairs from 6am to 7am in from Monday to Thursday from Bronx to Manhattan:
+
+1. Parkchester (6) --> Grand Central-42 St (S,4,5,6,7)
+ 562 average riders
+2. Parkchester (6) --> 14 St-Union Sq (L,N,Q,R,W,4,5,6)
+ 402 average riders
+3. Parkchester (6) --> 125 St (4,5,6)
+ 395 average riders
+4. Parkchester (6) --> 68 St-Hunter College (6)
+ 383 average riders
+5. Parkchester (6) --> 86 St (4,5,6)
+ 372 average riders
+6. Parkchester (6) --> Lexington Av-53 St (E,M)/51 St (6)
+ 357 average riders
+7. Parkchester (6) --> Fulton St (A,C,J,Z,2,3,4,5)
+ 346 average riders
+8. Parkchester (6) --> Brooklyn Bridge-City Hall (4,5,6)/Chambers St (J,Z)
+ 320 average riders
+9. 161 St-Yankee Stadium (B,D,4) --> 59 St-Columbus Circle (A,B,C,D,1)
+ 306 average riders
+10. Woodlawn (4) --> 86 St (4,5,6)
+ 302 average riders
